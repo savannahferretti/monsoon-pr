@@ -1,11 +1,9 @@
 Paper Title
 ------------
 
-by A. A. Author<sup>1</sup>, B. B. Author<sup>1</sup>, & C. C. Author<sup>2</sup>
+by S. L. Ferretti<sup>1</sup>, J. W. Baldwin<sup>1</sup>, & M. S. Pritchard<sup>1</sup>
 
-<sup>1</sup>Department, Organization, City, State, Country
-
-<sup>2</sup>Department, Organization, City, State, Country
+<sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
 
 **Status:** This paper has been submitted for publication at ```<JOURNAL>```. The ```<PAPER>``` was published in ```<JOURNAL>```, ```<DOI>```. ```<SUPPORTING_INFORMATION>``` is also available.  We welcome any comments, questions, or suggestions. Please email your feedback to ```<MAIN_AUTHOR>``` (```<EMAIL>```).
 
