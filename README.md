@@ -5,7 +5,7 @@ by S. L. Ferretti<sup>1</sup>, J. W. Baldwin<sup>1</sup>, & M. S. Pritchard<sup>
 
 <sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
 
-**Status:** This paper has been submitted for publication at ```<JOURNAL>```. The ```<PAPER>``` was published in ```<JOURNAL>```, ```<DOI>```. ```<SUPPORTING_INFORMATION>``` is also available.  We welcome any comments, questions, or suggestions. Please email your feedback to ```<MAIN_AUTHOR>``` (```<EMAIL>```).
+**Status:** This paper has been submitted for publication at ```<JOURNAL>```. The ```<PAPER>``` was published in ```<JOURNAL>```, ```<DOI>```. ```<SUPPORTING_INFORMATION>``` is also available.  We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
 
 **Abstract**: Insert abstract text here.
 
