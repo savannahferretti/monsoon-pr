@@ -1,0 +1,65 @@
+## Byte-Compiled / Optimized / DLL Files
+__pycache__/
+*.py[cod]
+
+# Distribution / Packaging
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.Python
+.installed.cfg
+.eggs/
+*.egg-info/
+*.egg
+
+## PyInstaller
+*.manifest
+*.spec
+
+## Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+## Unit Test / Coverage Reports
+htmlcov/
+nosetests.xml
+coverage.xml
+.tox/
+.coverage
+.coverage.*
+.cache
+*.cover
+
+## Translations
+*.mo
+*.pot
+
+## Database
+*.db
+*.rdb
+
+## Vim
+*.swp
+*.swo
+
+## Other
+# /data/              # Exclude data from source control by default
+docs/_build/        # Sphinx documentation
+target/             # PyBuilder
+.env                # Environment configuration
+.idea               # PyCharm
+.vscode/            # VS Code
+.spyproject/        # Spyder
+.ipynb_checkpoints/ # Jupyter Notebook checkpoints
+.DS_Store           # Mac OS-specific storage files
+.mypy_cache/        # MyPy cache
+*.so                # C extensions
+*.log               # Django stuff
