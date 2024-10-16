@@ -1,13 +1,11 @@
-Paper Title
+Explaining Northern Indian Ocean Rainfall Seasonality Using a Metric of Buoyancy
 ------------
 
-By A. A. Author<sup>1</sup>, B. B. Author<sup>1</sup>, & C. C. Author<sup>2</sup>
+By S. L. Ferretti<sup>1</sup>, L. Peng<sup>1</sup>, J. W. Baldwin<sup>1</sup>, & M. S. Pritchard<sup>1</sup>
 
-<sup>1</sup>Department, Organization, City, State, Country
+<sup>1</sup>Department of Earth System Science, University of California, Irvine, Irvine, CA, USA
 
-<sup>2</sup>Department, Organization, City, State, Country
-
-**Status:** This manuscript has been submitted for publication at ```<JOURNAL>```. The ```<PAPER>``` was published in ```<JOURNAL>``` in ```<MONTH, YEAR>```. ```<SUPPORTING_INFORMATION>``` is also available.  We welcome any comments, questions, or suggestions. Please email your feedback to ```<MAIN_AUTHOR>``` (```<EMAIL>```).
+**Status:** This manuscript is currently being written. We welcome any comments, questions, or suggestions. Please email your feedback to Savannah Ferretti (savannah.ferretti@uci.edu).
 
 **Abstract**: Insert abstract text here.
 
@@ -35,7 +33,8 @@ Project Organization
 
 Acknowledgements
 -------
-The analysis for this work has been performed on ```<HPC>```. This research was funded by ```<GRANTOR>```.```<NAME>``` provided helpful feedback on the first draft. Thanks to our colleagues at ```<ORGANIZATION>``` for their continued support.
+This research was funded by ```<GRANTOR>```. The analysis for this work has been performed on [Bridges-2](https://www.psc.edu/resources/bridges-2/) at the Pittsburgh Supercomputing Center, with much of this code reproduced from the NOAA MDTF [GitHub](https://github.com/NOAA-GFDL/MDTF-diagnostics). Thanks to our colleagues at [LEAP NSF-STC](https://leap.columbia.edu/) for allowing data access through [LEAP Pangeo](https://leap.columbia.edu/research-home/leap-pangeo/).
+
 
 --------
 <p><small>This template is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
